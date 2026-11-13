@@ -1,0 +1,1 @@
+Customer Churn Prediction using Machine Learning – An end-to-end classification project using Telco Customer Churn data. Includes data preprocessing, class imbalance handling, Random Forest and XGBoost models, cross-validation, ROC-AUC evaluation, confusion matrices, and feature importance analysis.
